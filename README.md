@@ -18,7 +18,8 @@ This project analyzes Netflix content using Power BI.
 - GitHub
 
 ## 📷 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/harish-Analyst/Netflix-dashboard/blob/main/overview.png)
+
 
 ## 📂 Dataset
 Netflix Movies and TV Shows Dataset
