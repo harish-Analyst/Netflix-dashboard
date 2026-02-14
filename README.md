@@ -1,4 +1,3 @@
-# Netflix-dashboard
 # 🎬 Netflix Content Analytics Dashboard
 
 ## 📌 Project Overview
@@ -32,4 +31,4 @@ Netflix Movies and TV Shows Dataset
 - TV Shows have higher average duration consistency.
 
 ---
-Created by [Your Name]
+Created by [Harish]
