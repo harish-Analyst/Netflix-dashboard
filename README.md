@@ -30,5 +30,3 @@ Netflix Movies and TV Shows Dataset
 - Most content added after 2015.
 - TV Shows have higher average duration consistency.
 
----
-Created by [Harish]
